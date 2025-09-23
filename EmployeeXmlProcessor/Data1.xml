@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Data>
+  <Pay>
+    <item employee_id="1" month="01">
+      <amount salary="1000"/>
+      <amount salary="1500"/>
+    </item>
+    <item employee_id="1" month="02">
+      <amount salary="1200"/>
+      <amount salary="1300"/>
+    </item>
+    <item employee_id="2" month="01">
+      <amount salary="800"/>
+      <amount salary="900"/>
+      <amount salary="750"/>
+    </item>
+    <item employee_id="3" month="03">
+      <amount salary="2000"/>
+    </item>
+  </Pay>
+</Data>
